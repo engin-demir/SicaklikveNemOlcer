@@ -1,0 +1,21 @@
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\bin\Debug\Mühendislik_Tasarimi.exe.config
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\bin\Debug\Mühendislik_Tasarimi.exe
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\bin\Debug\Mühendislik_Tasarimi.pdb
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.csprojResolveAssemblyReference.cache
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.Form1.resources
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.Properties.Resources.resources
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.csproj.GenerateResource.Cache
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.exe
+C:\Users\EngiN\Desktop\C#_Uygulama\Mühendislik_Tasarimi\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.pdb
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\bin\Debug\Mühendislik_Tasarimi.exe.config
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.exe
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.pdb
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\bin\Debug\Mühendislik_Tasarimi.exe
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\bin\Debug\Mühendislik_Tasarimi.pdb
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.csprojResolveAssemblyReference.cache
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.Form1.resources
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.Properties.Resources.resources
+C:\Users\EngiN\Desktop\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.csproj.GenerateResource.Cache
+C:\Users\EngiN\Desktop\4.sınıf 1.Donem\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\bin\Debug\Mühendislik_Tasarimi.exe.config
+C:\Users\EngiN\Desktop\4.sınıf 1.Donem\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.exe
+C:\Users\EngiN\Desktop\4.sınıf 1.Donem\Mühendislik_Tasarımı\C#_Kodları\Mühendislik_Tasarimi\obj\Debug\Mühendislik_Tasarimi.pdb

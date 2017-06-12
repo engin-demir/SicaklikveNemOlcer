@@ -1,0 +1,34 @@
+#include <main.h>
+#define use_portb_lcd TRUE   // LCD B portuna baðlý
+#define dht11 PIN_C3
+#include <lcd.c>   // lcd.c dosyasý tanýtýlýyor
+#include <DHT11.c>
+#use rs232 (baud=9600, xmit=pin_C6, rcv=pin_C7, parity=N, stop=1) 
+int k=123;
+void main()
+{
+   setup_psp(PSP_DISABLED);        // PSP birimi devre dýþý
+   setup_timer_1(T1_DISABLED);     // T1 zamanlayýcýsý devre dýþý
+   setup_timer_2(T2_DISABLED,0,1); // T2 zamanlayýcýsý devre dýþý
+   setup_adc_ports(NO_ANALOGS);    // ANALOG giriþ yok
+   setup_adc(ADC_OFF);             // ADC birimi devre dýþý
+   setup_CCP1(CCP_OFF);            // CCP1 birimi devre dýþý
+   setup_CCP2(CCP_OFF);            // CCP2 birimi devre dýþý
+   lcd_init();
+   dht_init();
+
+   while(TRUE)
+   {
+   
+      
+         read_dht();
+         
+         printf(" NEM  RH :%d.%d %% \n\r ",dht_dat[0],dht_dat[1]);
+        
+         printf(" Sicaklik  :%d.%d %cC \n\r  ",dht_dat[2],dht_dat[3],223);
+   
+   }
+   
+
+}
+
